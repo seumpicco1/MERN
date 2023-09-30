@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "date-fns": "^2.30.0",
+    "mongoose": "^7.5.2",
+    "mongoose-unique-validator": "^4.0.0"
+  }
+}
